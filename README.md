@@ -11,15 +11,18 @@ Criar um Projeto:
 - Spring.
 - Spring Security.
 
+
 *JWT* - Senha - User
   \
     Aplication prop.
+
 
 *- Rolers* - Admin. - Post.
         \           - Delete.
          \          - Put.
           \ 
             User. - Gpt.
+        
 
 JWT vai validar depois que o usuário já estiver logado.
 
