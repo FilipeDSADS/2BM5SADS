@@ -13,20 +13,27 @@ A aplicação vai subir em http://localhost:8080.
 Endpoints Principais:  
 
 Método	Endpoint	Descrição	Acesso
+
 POST	/auth/login	Login e obtenção do token	Público
+
 GET	/admin/users	Listar usuários	Somente ADMIN
+
 GET	/user/profile	Perfil do usuário logado	USER e ADMIN
 
 Testando com Postman ou Curl
+
 Login e obter token JWT
+
 Request:
 
 POST http://localhost:8080/auth/login
+
 Content-Type: application/json
 {
   "login": "admin",
   "password": "senha123"
 }
+
 
 Response:
 
@@ -43,6 +50,7 @@ Exemplo usando curl para buscar perfil:
 curl -H "Authorization: Bearer SEU_TOKEN_AQUI" http://localhost:8080/user/profile
 
 Banco de dados H2
+
 O banco é configurado para ser em memória, para testes e desenvolvimento.
 
 Console Web disponível para consulta:
