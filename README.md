@@ -6,7 +6,6 @@
 
 --------------------
 # Projeto JWT com Spring Boot
-Descrição
 Este projeto é uma API REST com autenticação JWT utilizando Spring Boot e Spring Security. Possui controle de acesso baseado em roles (ADMIN e USER). O banco de dados utilizado é o H2, um banco em memória para facilitar testes.
 
 A aplicação vai subir em http://localhost:8080.
