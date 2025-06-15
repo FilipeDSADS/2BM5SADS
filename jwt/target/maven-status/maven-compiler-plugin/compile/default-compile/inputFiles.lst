@@ -1,0 +1,12 @@
+C:\Users\joaoc\Desktop\jwt\src\main\java\com\example\jwt\pessoa\security\JwtUtil.java
+C:\Users\joaoc\Desktop\jwt\src\main\java\com\example\jwt\JwtApplication.java
+C:\Users\joaoc\Desktop\jwt\src\main\java\com\example\jwt\pessoa\model\LoginRequest.java
+C:\Users\joaoc\Desktop\jwt\src\main\java\com\example\jwt\pessoa\model\UserRole.java
+C:\Users\joaoc\Desktop\jwt\src\main\java\com\example\jwt\pessoa\controller\AuthController.java
+C:\Users\joaoc\Desktop\jwt\src\main\java\com\example\jwt\pessoa\controller\AdminController.java
+C:\Users\joaoc\Desktop\jwt\src\main\java\com\example\jwt\pessoa\controller\UserController.java
+C:\Users\joaoc\Desktop\jwt\src\main\java\com\example\jwt\pessoa\repository\UserRepository.java
+C:\Users\joaoc\Desktop\jwt\src\main\java\com\example\jwt\pessoa\security\SecurityConfig.java
+C:\Users\joaoc\Desktop\jwt\src\main\java\com\example\jwt\pessoa\service\UserService.java
+C:\Users\joaoc\Desktop\jwt\src\main\java\com\example\jwt\pessoa\model\User.java
+C:\Users\joaoc\Desktop\jwt\src\main\java\com\example\jwt\pessoa\security\JwtAuthFilter.java

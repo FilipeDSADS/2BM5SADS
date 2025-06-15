@@ -1,0 +1,12 @@
+com\example\jwt\JwtApplication.class
+com\example\jwt\pessoa\model\UserRole.class
+com\example\jwt\pessoa\security\JwtUtil.class
+com\example\jwt\pessoa\model\LoginRequest.class
+com\example\jwt\pessoa\repository\UserRepository.class
+com\example\jwt\pessoa\model\User.class
+com\example\jwt\pessoa\security\JwtAuthFilter.class
+com\example\jwt\pessoa\controller\AdminController.class
+com\example\jwt\pessoa\controller\UserController.class
+com\example\jwt\pessoa\controller\AuthController.class
+com\example\jwt\pessoa\security\SecurityConfig.class
+com\example\jwt\pessoa\service\UserService.class
