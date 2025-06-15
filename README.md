@@ -10,7 +10,7 @@ Este projeto é uma API REST com autenticação JWT utilizando Spring Boot e Spr
 
 A aplicação vai subir em http://localhost:8080.
 
-Endpoints Principais
+Endpoints Principais:
 Método	Endpoint	Descrição	Acesso
 POST	/auth/login	Login e obtenção do token	Público
 GET	/admin/users	Listar usuários	Somente ADMIN
