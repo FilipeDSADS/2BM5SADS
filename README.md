@@ -72,7 +72,7 @@ Password: (deixe vazio)
 
 ------------------
 
-#TESTE no Postman
+# TESTE no Postman
 
 Comando cURL para registrar um novo usuário:
 
