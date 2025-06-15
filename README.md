@@ -72,3 +72,25 @@ Password: (deixe vazio)
 
 ------------------
 
+#TESTE no Postman
+
+Comando cURL para registrar um novo usuário:
+
+curl -X POST http://localhost:8080/auth/register \
+  -H "Content-Type: application/json" \
+  -d '{"login": "admin", "password": "senha123", "role": "ADMIN"}'
+
+Login:
+
+curl -X POST http://localhost:8080/auth/login \
+  -H "Content-Type: application/json" \
+  -d '{"login": "admin", "password": "senha123"}'
+
+json
+
+"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
+
+curl -X GET http://localhost:8080/admin/usuarios \
+  -H "Authorization: Bearer SEU_TOKEN_AQUI"
+
+
